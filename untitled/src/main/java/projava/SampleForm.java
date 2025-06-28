@@ -4,7 +4,7 @@ import projava.child.ChildFrame;
 
 import javax.swing.*;
 import java.awt.*;
-
+//これはテストコミット
 public class SampleForm {
     public static void main(String[] args) {
         var frame = new JFrame("test");
